@@ -24,7 +24,7 @@ Add the KPIs displayed on your dashboard, such as:
 - Total complaints
 - Resolved complaints
 - Pending complaints
-- Average resolution time
+- Average rating
 
 Include only metrics that are actually present in your dashboard.
 
